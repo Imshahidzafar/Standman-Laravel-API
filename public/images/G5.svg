@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="172" height="172" viewBox="0 0 172 172">
+  <defs>
+    <filter id="background" x="0" y="0" width="172" height="172" filterUnits="userSpaceOnUse">
+      <feOffset dy="11" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="13.5" result="blur"/>
+      <feFlood flood-color="#37d1bf" flood-opacity="0.129"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_14358" data-name="Group 14358" transform="translate(-1605.5 -164.5)">
+    <path id="Ellipse_12" data-name="Ellipse 12" d="M45.5-11.5a57,57,0,1,1-57,57A57.064,57.064,0,0,1,45.5-11.5Zm0,91a34,34,0,1,0-34-34A34.039,34.039,0,0,0,45.5,79.5Z" transform="translate(1646.5 194.5)" fill="#f9f2ff"/>
+    <g transform="matrix(1, 0, 0, 1, 1605.5, 164.5)" filter="url(#background)">
+      <path id="background-2" data-name="background" d="M1691.5,194h0a45.458,45.458,0,0,1,45.5,45.5h0a45.458,45.458,0,0,1-45.5,45.5h0a45.458,45.458,0,0,1-45.5-45.5h0A45.458,45.458,0,0,1,1691.5,194Z" transform="translate(-1605.5 -164.5)" fill="#8000ff"/>
+    </g>
+    <path id="Union_1" data-name="Union 1" d="M0,19.476A19.146,19.146,0,0,1,38.264,18.1a1.37,1.37,0,1,1-2.735.15,16.474,16.474,0,1,0-1.655,8.083,1.368,1.368,0,1,1,2.455,1.2A19,19,0,0,1,25.21,37.3,19.13,19.13,0,0,1,0,19.476Zm24.841,7.259-5.27-5.27-5.27,5.27a1.311,1.311,0,0,1-1.891,0,1.292,1.292,0,0,1,0-1.892l5.27-5.27-5.27-5.27A1.337,1.337,0,1,1,14.3,12.411l5.27,5.27L24.851,12.4a1.337,1.337,0,1,1,1.885,1.9l-5.27,5.27,5.27,5.27a1.309,1.309,0,0,1,0,1.892,1.421,1.421,0,0,1-.961.407A1.338,1.338,0,0,1,24.844,26.735Z" transform="translate(1672 220)" fill="#fff"/>
+  </g>
+</svg>

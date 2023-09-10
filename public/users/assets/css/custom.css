@@ -1,0 +1,41 @@
+/* Form Validation */
+.error {
+   color: red !important;
+}
+/* jQuery Datepicker UI */
+.ui-datepicker { 
+   width: 20.5em; 
+   padding: .3em .3em 0;
+   margin-left: 13px; 
+}
+.ui-datepicker-header {
+   background: #4BD16F;
+   border: #4BD16F;
+   font-size: 18px;
+   padding-top: 5px !important;
+   padding-bottom: 5px !important;
+}
+.ui-datepicker .ui-state-default {
+   color: #969D9F;
+   text-align: center;
+   margin: auto;
+   padding-top: 7px;
+   padding-bottom: 7px;
+}
+.ui-datepicker .ui-state-hover {
+   background: #4BD16F;  
+   border: #4BD16F;
+   color: #fff;
+}
+.ui-datepicker table {
+   width: 100%; 
+   font-size: 1em;  
+}
+/* Signup Profile Preview */
+#upload_profile {
+  width: 200px;
+}
+/* Signup Profile Error */
+#upload_profile .controls {
+  margin-left: -10px !important;
+}

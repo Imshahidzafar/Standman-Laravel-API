@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="172" height="172" viewBox="0 0 172 172">
+  <defs>
+    <filter id="background" x="0" y="0" width="172" height="172" filterUnits="userSpaceOnUse">
+      <feOffset dy="11" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="13.5" result="blur"/>
+      <feFlood flood-color="#6ec51e" flood-opacity="0.129"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_14355" data-name="Group 14355" transform="translate(-1008.5 -164.5)">
+    <g id="Group_4" data-name="Group 4" transform="translate(623)">
+      <g id="Group_1" data-name="Group 1">
+        <path id="Ellipse_12" data-name="Ellipse 12" d="M45.5-11.5a57,57,0,1,1-57,57A57.064,57.064,0,0,1,45.5-11.5Zm0,91a34,34,0,1,0-34-34A34.039,34.039,0,0,0,45.5,79.5Z" transform="translate(425.5 194.5)" fill="#ffd3ac"/>
+        <g transform="matrix(1, 0, 0, 1, 385.5, 164.5)" filter="url(#background)">
+          <path id="background-2" data-name="background" d="M471.5,194h0A45.459,45.459,0,0,1,517,239.5h0A45.459,45.459,0,0,1,471.5,285h0A45.458,45.458,0,0,1,426,239.5h0A45.458,45.458,0,0,1,471.5,194Z" transform="translate(-385.5 -164.5)" fill="#ff9432"/>
+        </g>
+      </g>
+    </g>
+    <g id="refresh-svgrepo-com" transform="translate(1072 187.733)">
+      <path id="Path_16" data-name="Path 16" d="M25.164,33.267A19.164,19.164,0,0,0,6.027,52.413v.063L2.237,46.77A1.22,1.22,0,1,0,.2,48.117l5.5,8.275a1.224,1.224,0,0,0,.868.534.877.877,0,0,0,.154.009,1.2,1.2,0,0,0,.814-.317l7.642-6.882a1.223,1.223,0,1,0-1.637-1.818L8.468,52.5v-.09a16.72,16.72,0,1,1,4.9,11.811,1.221,1.221,0,0,0-1.727,1.727A19.141,19.141,0,1,0,25.164,33.267Z" transform="translate(0)" fill="#fff"/>
+    </g>
+  </g>
+</svg>
